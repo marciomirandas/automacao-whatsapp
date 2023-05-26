@@ -1,8 +1,3 @@
-#331.666.228-61
-#331.667.228-62
-#413.434.388-70
-#287.703.988-95
-
 """
 pip install selenium
 pip install webdriver-manager
